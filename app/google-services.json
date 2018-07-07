@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "531716688118",
+    "firebase_url": "https://krishi-mitr.firebaseio.com",
+    "project_id": "krishi-mitr",
+    "storage_bucket": "krishi-mitr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531716688118:android:94196138bfdc30ce",
+        "android_client_info": {
+          "package_name": "gov.dacfw.agribot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531716688118-rd0ti653sddr5uq03pngq457t8loalcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gov.dacfw.agribot",
+            "certificate_hash": "46ee17c9ef514b417f50cdda87c09c7c9cabf7ad"
+          }
+        },
+        {
+          "client_id": "531716688118-1grmhjubiajae4mh7ml24c0mnopbvnft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg_PCwn4tIYPjyGJTmx3kGKvzpA5VCC_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531716688118-1grmhjubiajae4mh7ml24c0mnopbvnft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

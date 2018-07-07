@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AgriBot</string>
+    <string name="etGreet">Your query will be displayed here...</string>
+    <string name="tvReplyGreet">The reply will appear here...</string>
+    <string name="promptLocation">Which location?</string>
+     <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Krishi Mitr</string>
+    <string name="slide_1_desc"> This is an agriculture Chatbot which give you the information about weather,wind speed and rainfall
+        for your location.</string>
+
+    <string name="slide_2_title"> Seeds</string>
+    <string name="slide_2_desc">To solve your query about seeds and their quality.</string>
+
+    <string name="slide_3_title">Weather</string>
+    <string name="slide_3_desc"> Using this Application our Agribot is help you to know about the weather condition
+        for your location.</string>
+
+    <string name="slide_4_title">Wind Speed</string>
+    <string name="slide_4_desc">This feature help you to know about wind speed in your area.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="email">YourEmailAddress</string>
+    <string name="subject">Feedback on your app</string>
+    <string name="message">Hi,
+\n\nYour Krishi Mitr app is very nice I would like to give you some feedback:</string>
+    <string name="feedback">Send feedback</string>
+
+</resources>
